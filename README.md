@@ -1,6 +1,6 @@
 # Weather-Forecasting
  Python code  for a Weather Forecasting Application
-```md
+
 # Weather Forecasting Application
 
 ## Description
@@ -19,11 +19,8 @@ This is a Python-based application that utilizes historical weather data and mac
 ## Usage
 1. Obtain an API key from a weather data provider (e.g., OpenWeatherMap).
 2. Replace `YOUR_API_KEY` in the code with your actual API key.
-3. Run the application: `python main.py`
-
-
-
-
+3. Run the application: `python main.py
+   
 
 ## Connect With Us 🌐
 
@@ -36,5 +33,4 @@ Feel free to reach out to us through any of the following platforms:
 - Instagram: [@chandrayee](https://www.instagram.com/chandrayee/)
 - YouTube: [Chand Rayee](https://www.youtube.com/channel/UCcM2HEX1YXcWjk2AK0hgyFg)
 - Discord: [AI & ML Chand Rayee](https://discord.gg/SXs6Wf8c)
-
 
