@@ -21,17 +21,15 @@ This is a Python-based application that utilizes historical weather data and mac
 2. Replace `YOUR_API_KEY` in the code with your actual API key.
 3. Run the application: `python main.py`
 
-# Connect With Us 🌐
+## Connect With Us 🌐
 
 Feel free to reach out to us through any of the following platforms:
 
-- **Telegram**: @chand_rayee
-- **LinkedIn**: Mr. Chandrayee
-- **GitHub**: mrchandrayee
-- **Kaggle**: mrchandrayee
-- **Instagram**: @chandrayee
-- **YouTube**: Chand Rayee
-- **Discord**: AI & ML Chand Rayee
+- Telegram: [@chand_rayee](https://t.me/chand_rayee)
+- LinkedIn: [Mr. Chandrayee](https://www.linkedin.com/in/mrchandrayee/)
+- GitHub: [mrchandrayee](https://github.com/mrchandrayee)
+- Kaggle: [mrchandrayee](https://www.kaggle.com/mrchandrayee)
+- Instagram: [@chandrayee](https://www.instagram.com/chandrayee/)
+- YouTube: [Chand Rayee](https://www.youtube.com/channel/UCcM2HEX1YXcWjk2AK0hgyFg)
+- Discord: [AI & ML Chand Rayee](https://discord.gg/SXs6Wf8c)
 
-We're always open to collaborations, questions, and feedback!
-```
