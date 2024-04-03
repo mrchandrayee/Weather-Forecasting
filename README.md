@@ -21,6 +21,10 @@ This is a Python-based application that utilizes historical weather data and mac
 2. Replace `YOUR_API_KEY` in the code with your actual API key.
 3. Run the application: `python main.py`
 
+
+
+
+
 ## Connect With Us 🌐
 
 Feel free to reach out to us through any of the following platforms:
@@ -32,4 +36,5 @@ Feel free to reach out to us through any of the following platforms:
 - Instagram: [@chandrayee](https://www.instagram.com/chandrayee/)
 - YouTube: [Chand Rayee](https://www.youtube.com/channel/UCcM2HEX1YXcWjk2AK0hgyFg)
 - Discord: [AI & ML Chand Rayee](https://discord.gg/SXs6Wf8c)
+
 
